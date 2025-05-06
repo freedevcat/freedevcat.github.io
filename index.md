@@ -1,3 +1,3 @@
-## Welcome to Alushta!
+## Welcome to Eceofa!
 
 Stay tuned...
