@@ -217,7 +217,6 @@ code.highlighter-rouge {
 .wrapper {
   margin: 0 auto;
   padding: 0 $spacing-unit;
-  text-align: right;
   @extend %clearfix;
 
   @media screen and (max-width: $on-medium) {
