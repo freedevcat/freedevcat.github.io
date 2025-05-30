@@ -1,3 +1,0 @@
-## Welcome to Eceofa!
-
-Stay tuned...
